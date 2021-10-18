@@ -1,3 +1,8 @@
+Problem: [Link](https://leetcode.com/problems/climbing-stairs/)
+
+Author: [@yashladekar](https://github.com/yashladekar)
+
+```C++
 #include <bits/stdc++.h>
 using namespace std;
 class Solution
@@ -37,3 +42,4 @@ int main()
     cout << obj.climbStairs(n);
     return 0;
 }
+```
